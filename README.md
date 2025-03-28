@@ -1,7 +1,7 @@
 ## Render Blocking & Lazy Loading 
 
 
-#⚡ Optimizing Render-Blocking Resources & Lazy Loading
+##⚡ Optimizing Render-Blocking Resources & Lazy Loading
 
 Improve your website's **performance and user experience** by reducing render-blocking resources and loading content only when needed. This guide breaks down modern best practices used in the js13kPWA example app.
 
